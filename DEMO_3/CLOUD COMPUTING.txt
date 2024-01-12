@@ -1,2 +1,3 @@
 HELLO!!
+Good Afternoon...
 This is Cloud Computing class
